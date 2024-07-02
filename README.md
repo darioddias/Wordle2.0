@@ -18,6 +18,10 @@ Pygame library (pip install pygame)
 
 How to Play:
 
+Download this repository and run 'runWordle.bat'
+
+OR 
+
 Clone or download this repository.
 Install Pygame: pip install pygame
 Run the game: python main.py
@@ -28,12 +32,13 @@ You have 6 tries to guess the correct word.
 Project Structure:
 
 wordle_clone/
-├── colors.py      # Defines color constants for the game
-├── game_logic.py  # Handles game logic (word selection, guess checking, etc.)
-├── wordle-answers.txt  # File containing answer words
-├── wordle-guess.txt  # File containing guessable words
-├── main.py         # Main script that runs the game
-└── wordle_graphics.py  # Implements the visual interface using Pygame
+- colors.py      # Defines color constants for the game
+- game_logic.py  # Handles game logic (word selection, guess checking, etc.)
+- wordle-answers.txt  # File containing answer words
+- wordle-guess.txt  # File containing guessable words
+- main.py         # Main script that runs the game
+- runWorldle.bat # Used to launch application
+- wordle_graphics.py  # Implements the visual interface using Pygame
 
 Customization:
 
