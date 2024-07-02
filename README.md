@@ -1,4 +1,6 @@
 Wordle 2.0
+
+
 This is a self taught Wordle application built with Python and Tkinter using online tutorials. The program helps users solve Wordle puzzles by allowing them to make guesses and providing visual feedback based on the correctness of each guess.
 
 Features
